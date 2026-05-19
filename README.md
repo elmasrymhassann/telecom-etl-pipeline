@@ -1,7 +1,7 @@
-# Telecom Data Engineering Project
+# # Telecom ETL Pipeline
 
 ## Project Overview
-End-to-end Telecom Data Engineering pipeline using:
+End-to-end Telecom ETL Pipeline using:
 
 - Python
 - Pandas
